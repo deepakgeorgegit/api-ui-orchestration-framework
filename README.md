@@ -15,7 +15,7 @@ The focus of this framework is **test strategy and responsibility separation**, 
 
 ## Project Structure
 
-
+```
 api-ui-orchestration-framework/
 │
 ├── api/
@@ -39,7 +39,7 @@ api-ui-orchestration-framework/
 ├── pytest.ini
 ├── .gitignore
 └── README.md
-
+```
 
 
 ##  Test Scenarios Covered
